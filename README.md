@@ -46,9 +46,4 @@ To view or edit this project locally, follow these steps:
 - Add product filtering, sorting, and search features.
 - Implement an e-commerce backend with payment processing.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize the above README as per your project needs.
