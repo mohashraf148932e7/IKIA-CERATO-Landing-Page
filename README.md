@@ -1,5 +1,4 @@
 
----
 
 # IKIA CERATO - Furniture Store
 
